@@ -1,5 +1,7 @@
 # @pirogi_poetry_bot
 
+![пример использования](https://github.com/liz-feklina/pirogi_poetry_bot/blob/main/Снимок%20экрана%202025-05-16%20233330.png?raw=true)
+
 ## Содержание репозитория:
 - aot_crawler + pirozhki - тетрадка с кодом
 - codenames_biggest_one - изначальный набор слов
